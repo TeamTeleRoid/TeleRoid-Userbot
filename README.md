@@ -18,7 +18,7 @@ This repo is fork of @TeamUltroid 's Userbot by @TeamTeleRoid
 [![Contributors](https://img.shields.io/github/contributors/TeamTeleRoid/TeleRoid-Userbot?style=flat-square&color=green)](https://github.com/TeamTeleRoid/TeleRoid-Userbot/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamTeleRoid/TeleRoid-Userbot/blob/main/LICENSE)   
-[![HitCount](http://hits.dwyl.com/Teamultroid/Teamultroid/Ultroid.svg)](http://hits.dwyl.com/TeamTeleRoid/TeamTeleRoid/TeleRoid-Userbot)   
+[![HitCount](http://hits.dwyl.com/Teamultroid/Teamultroid/Ultroid.svg)](http://hits.dwyl.com/TeamUltroid/TeamUltroid/Ultroid)   
 [![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamTeleRoid/TeleRoid-Userbot)
 
 ----
